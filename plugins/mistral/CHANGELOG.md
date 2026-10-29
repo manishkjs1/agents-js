@@ -1,5 +1,13 @@
 # @livekit/agents-plugin-mistral
 
+## 1.9.6
+
+### Patch Changes
+
+- Updated dependencies [[`6a792a8`](https://github.com/livekit/agents-js/commit/6a792a855154610fee263de336c0a890e25f7332), [`f639fe4`](https://github.com/livekit/agents-js/commit/f639fe42f4c4a13c612c34d89a482f851a6b56ff), [`649a0fd`](https://github.com/livekit/agents-js/commit/649a0fd06a02f22f2d1e78c7f8f2245edd029466), [`77b358c`](https://github.com/livekit/agents-js/commit/77b358cfb4e4c5cda56469dbd6763c74d4e44afa)]:
+  - @livekit/agents@1.9.6
+  - @livekit/agents-plugin-mistralai@1.9.6
+
 ## 1.9.5
 
 ### Patch Changes
